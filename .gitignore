@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Kujanski.Caching
+/Kujanski.Caching/bin/Debug/netcoreapp3.1
+/Kujanski.Caching/obj
+/Kujanski.Caching.Tests/bin/Debug/netcoreapp3.1
+/Kujanski.Caching.Tests/obj
+/Kujanski.Caching.Ui/bin/Debug/netcoreapp3.1
+/Kujanski.Caching.Ui/obj
